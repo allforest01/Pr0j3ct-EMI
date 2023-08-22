@@ -24,12 +24,12 @@ Select `option 1` to verify if the account is active
 ![](./images/Pasted%20image%2020230822145618.png)
 
 **3. Obtaining item information**  
-Navigate to the product page for which you want to place an order. Switch to the `Network` tab, locate `get_pc` and copy the content of `Response` as shown below:  
+Navigate to the product page for which you want to place an order. Switch to the Network tab, locate get_pc and copy the content of Response as shown below:  
 ![](./images/Pasted%20image%2020230822141731.png)
 Then paste this data into the `item_data` file located within the folder of the repository.
 
 **4. Automated order placement process**  
-Choose `option 4`, select the product model you want, and let `Pr0j3ct-EMI` "camp" it for you!  
+Choose `option 4`, select the product model you want, and let Pr0j3ct-EMI "camp" it for you!  
 ![](./images/Pasted%20image%2020230822152815.png)
 
 The script will repeatedly attempt to place an order until the production becomes available and will display various `error` messages during this process. Once successful, it will display a message like the one shown below:  
