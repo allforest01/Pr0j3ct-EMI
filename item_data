@@ -1,0 +1,1032 @@
+{
+    "bff_meta": null,
+    "error": null,
+    "error_msg": null,
+    "data": {
+        "item": {
+            "item_id": 19603006193,
+            "shop_id": 90740928,
+            "item_status": "normal",
+            "status": 1,
+            "item_type": 0,
+            "reference_item_id": "",
+            "title": "[Mã BMLTA35 giảm đến 35K đơn 99K] Sách - Hành Trình Của Elaina (Cập nhật các tập từ 1-7)",
+            "image": "649f5a52c7736526e20c3526e9eb3f79",
+            "label_ids": [
+                1000262,
+                1000259,
+                1000258,
+                1000260,
+                1000255,
+                1000263,
+                1000254,
+                1000257,
+                1000265,
+                1000264,
+                1000267,
+                1000266,
+                1000268,
+                1000270,
+                1000269,
+                1000274,
+                1000272,
+                1000271,
+                1000273,
+                1000277,
+                1000276,
+                1000278,
+                1000275,
+                1000279,
+                1000256,
+                1000956,
+                1006856,
+                1008793,
+                1009763,
+                1012191,
+                1013742,
+                1014184,
+                1015195,
+                1015790,
+                1015940,
+                1015944,
+                1068653,
+                1133816,
+                700085243,
+                1400095093,
+                700190078,
+                1433672,
+                1428679,
+                1433710,
+                700300014,
+                700305015,
+                700305088,
+                1433749,
+                1428774,
+                1001044,
+                700085289,
+                1115060,
+                700066495,
+                1400066583,
+                1400066667,
+                1400085417,
+                1134090,
+                1143714,
+                1173579,
+                700155057,
+                1278633,
+                700195041,
+                700195061,
+                1400175034,
+                700000280,
+                700000290,
+                1428607,
+                1428751,
+                298413316,
+                997736089,
+                298458308,
+                298458378,
+                298458399,
+                298463390,
+                1638619,
+                1643609,
+                1643655,
+                997781004,
+                997771006,
+                997781008,
+                1643598,
+                997771036,
+                997771050,
+                997771054,
+                997776077,
+                700440006,
+                997781087,
+                700450001,
+                700450002,
+                700450019,
+                700445041,
+                700440070,
+                700450064,
+                700440085,
+                1717937927,
+                1673578,
+                298488322,
+                1268586,
+                298488343,
+                298488385,
+                1688621,
+                1400085266,
+                1011387,
+                1009063,
+                298413329,
+                298413327
+            ],
+            "is_adult": false,
+            "is_preview": false,
+            "flag": 65536,
+            "is_service_by_shopee": false,
+            "condition": 1,
+            "cat_id": 100643,
+            "has_low_fulfillment_rate": false,
+            "is_live_streaming_price": null,
+            "currency": "VND",
+            "brand": "Jougi Shiraishi",
+            "brand_id": 1068946,
+            "show_discount": 20,
+            "ctime": 1652847587,
+            "item_rating": {
+                "rating_star": 4.944055944055944
+            },
+            "cb_option": 0,
+            "has_model_with_available_shopee_stock": false,
+            "shop_location": "Hà Nội",
+            "attributes": [
+                {
+                    "name": "Ngôn ngữ",
+                    "value": "Tiếng Việt",
+                    "id": 100673,
+                    "is_timestamp": false,
+                    "brand_option": null,
+                    "val_id": 5471,
+                    "url": null
+                },
+                {
+                    "name": "Nhập khẩu/ trong nước",
+                    "value": "Trong nước",
+                    "id": 100676,
+                    "is_timestamp": false,
+                    "brand_option": null,
+                    "val_id": 3518,
+                    "url": null
+                }
+            ],
+            "rich_text_description": {
+                "paragraph_list": [
+                    {
+                        "type": 0,
+                        "text": "Tên Nhà Cung Cấp\tAMAK - XYZ",
+                        "img_id": null,
+                        "ratio": null,
+                        "empty_paragraph_count": null
+                    },
+                    {
+                        "type": 0,
+                        "text": "Tác giả\tJougi Shiraishi",
+                        "img_id": null,
+                        "ratio": null,
+                        "empty_paragraph_count": null
+                    },
+                    {
+                        "type": 0,
+                        "text": "Người Dịch\tTrần Hà",
+                        "img_id": null,
+                        "ratio": null,
+                        "empty_paragraph_count": null
+                    },
+                    {
+                        "type": 0,
+                        "text": "NXB\tNXB Dân trí",
+                        "img_id": null,
+                        "ratio": null,
+                        "empty_paragraph_count": null
+                    },
+                    {
+                        "type": 0,
+                        "text": "Năm XB\t2021",
+                        "img_id": null,
+                        "ratio": null,
+                        "empty_paragraph_count": null
+                    },
+                    {
+                        "type": 0,
+                        "text": "Ngôn Ngữ\tTiếng Việt",
+                        "img_id": null,
+                        "ratio": null,
+                        "empty_paragraph_count": null
+                    },
+                    {
+                        "type": 0,
+                        "text": "Trọng lượng (gr)\t333",
+                        "img_id": null,
+                        "ratio": null,
+                        "empty_paragraph_count": null
+                    },
+                    {
+                        "type": 0,
+                        "text": "Kích Thước Bao Bì\t18 x 13 x 1.9 cm",
+                        "img_id": null,
+                        "ratio": null,
+                        "empty_paragraph_count": null
+                    },
+                    {
+                        "type": 0,
+                        "text": "Số trang\t371",
+                        "img_id": null,
+                        "ratio": null,
+                        "empty_paragraph_count": null
+                    },
+                    {
+                        "type": 0,
+                        "text": "Hình thức\tBìa Mềm",
+                        "img_id": null,
+                        "ratio": null,
+                        "empty_paragraph_count": null
+                    },
+                    {
+                        "type": 10001,
+                        "text": null,
+                        "img_id": null,
+                        "ratio": null,
+                        "empty_paragraph_count": 1
+                    },
+                    {
+                        "type": 0,
+                        "text": "Giới thiệu sách:",
+                        "img_id": null,
+                        "ratio": null,
+                        "empty_paragraph_count": null
+                    },
+                    {
+                        "type": 0,
+                        "text": "Cô ấy là một phù thủy, và cũng là lữ khách. Cô khoác lên mình tấm áo choàng đen cùng một chiếc mũ chóp nhọn màu đen, huy hiệu chứng minh cho thân phận nữ phù thủy lấp lánh trên ngực áo.",
+                        "img_id": null,
+                        "ratio": null,
+                        "empty_paragraph_count": null
+                    },
+                    {
+                        "type": 0,
+                        "text": "Mái tóc lộ ra dưới vành nón là màu xám tro tung bay đón lấy những cơn gió lạnh. Đôi mắt màu xanh biếc đang chăm chú nhìn vào một quốc gia nho nhỏ nằm yên tĩnh nơi tiếp giáp giữa bầu trời xanh và bình nguyên. Cô gái ấy chính là tôi – Phù Thủy Tro Tàn Elaina.",
+                        "img_id": null,
+                        "ratio": null,
+                        "empty_paragraph_count": null
+                    }
+                ]
+            },
+            "invoice_option": null,
+            "is_category_failed": null,
+            "is_prescription_item": false,
+            "preview_info": null,
+            "show_prescription_feed": false,
+            "is_alcohol_product": false,
+            "is_infant_milk_formula_product": false,
+            "is_unavailable": false,
+            "is_partial_fulfilled": false,
+            "is_presale": false,
+            "is_presale_deposit_item": null,
+            "is_presale_deposit_made": null,
+            "description": "Tên Nhà Cung Cấp\tAMAK - XYZ\nTác giả\tJougi Shiraishi\nNgười Dịch\tTrần Hà\nNXB\tNXB Dân trí\nNăm XB\t2021\nNgôn Ngữ\tTiếng Việt\nTrọng lượng (gr)\t333\nKích Thước Bao Bì\t18 x 13 x 1.9 cm\nSố trang\t371\nHình thức\tBìa Mềm\n\nGiới thiệu sách:\nCô ấy là một phù thủy, và cũng là lữ khách. Cô khoác lên mình tấm áo choàng đen cùng một chiếc mũ chóp nhọn màu đen, huy hiệu chứng minh cho thân phận nữ phù thủy lấp lánh trên ngực áo.\nMái tóc lộ ra dưới vành nón là màu xám tro tung bay đón lấy những cơn gió lạnh. Đôi mắt màu xanh biếc đang chăm chú nhìn vào một quốc gia nho nhỏ nằm yên tĩnh nơi tiếp giáp giữa bầu trời xanh và bình nguyên. Cô gái ấy chính là tôi – Phù Thủy Tro Tàn Elaina.",
+            "categories": [
+                {
+                    "catid": 100643,
+                    "display_name": "Sách \u0026 Tạp Chí",
+                    "no_sub": false,
+                    "is_default_subcat": false
+                },
+                {
+                    "catid": 100777,
+                    "display_name": "Sách",
+                    "no_sub": false,
+                    "is_default_subcat": false
+                },
+                {
+                    "catid": 101554,
+                    "display_name": "Light Novels",
+                    "no_sub": true,
+                    "is_default_subcat": false
+                }
+            ],
+            "fe_categories": [
+                {
+                    "catid": 11036863,
+                    "display_name": "Nhà Sách Online",
+                    "no_sub": false,
+                    "is_default_subcat": false
+                },
+                {
+                    "catid": 11108503,
+                    "display_name": "Sách Tiếng Việt",
+                    "no_sub": false,
+                    "is_default_subcat": false
+                },
+                {
+                    "catid": 11108519,
+                    "display_name": "Tiểu thuyết ngắn",
+                    "no_sub": true,
+                    "is_default_subcat": false
+                }
+            ],
+            "item_has_video": false,
+            "presale_dday_start_time": null,
+            "models": [
+                {
+                    "item_id": 19603006193,
+                    "status": 1,
+                    "current_promotion_reserved_stock": 0,
+                    "name": "Tập 5",
+                    "promotion_id": 730985201286048,
+                    "price": 8036000000,
+                    "price_stocks": [
+                        {
+                            "allocated_stock": null,
+                            "stock_breakdown_by_location": null,
+                            "promotion_type": 301
+                        },
+                        {
+                            "allocated_stock": 0,
+                            "stock_breakdown_by_location": [
+                                {
+                                    "location_id": "VNZ",
+                                    "available_stock": 20,
+                                    "fulfilment_type": 2,
+                                    "address_id": 0,
+                                    "allocated_stock": null
+                                }
+                            ],
+                            "promotion_type": 0
+                        }
+                    ],
+                    "current_promotion_has_reserve_stock": false,
+                    "normal_stock": 20,
+                    "extinfo": {
+                        "tier_index": [
+                            4
+                        ],
+                        "is_pre_order": false,
+                        "estimated_days": 2
+                    },
+                    "price_before_discount": 9800000000,
+                    "model_id": 180169375860,
+                    "stock": 20,
+                    "has_gimmick_tag": false,
+                    "key_measurement": null,
+                    "sold": 259
+                },
+                {
+                    "item_id": 19603006193,
+                    "status": 1,
+                    "current_promotion_reserved_stock": 0,
+                    "name": "Tập 6",
+                    "promotion_id": 730985201286048,
+                    "price": 8330000000,
+                    "price_stocks": [
+                        {
+                            "allocated_stock": null,
+                            "stock_breakdown_by_location": null,
+                            "promotion_type": 301
+                        },
+                        {
+                            "allocated_stock": 0,
+                            "stock_breakdown_by_location": [
+                                {
+                                    "location_id": "VNZ",
+                                    "available_stock": 5,
+                                    "fulfilment_type": 2,
+                                    "address_id": 0,
+                                    "allocated_stock": null
+                                }
+                            ],
+                            "promotion_type": 0
+                        }
+                    ],
+                    "current_promotion_has_reserve_stock": false,
+                    "normal_stock": 5,
+                    "extinfo": {
+                        "tier_index": [
+                            5
+                        ],
+                        "is_pre_order": false,
+                        "estimated_days": 2
+                    },
+                    "price_before_discount": 9800000000,
+                    "model_id": 180169375861,
+                    "stock": 5,
+                    "has_gimmick_tag": false,
+                    "key_measurement": null,
+                    "sold": 70
+                },
+                {
+                    "item_id": 19603006193,
+                    "status": 1,
+                    "current_promotion_reserved_stock": 0,
+                    "name": "Tập 1",
+                    "promotion_id": 730985201286048,
+                    "price": 8036000000,
+                    "price_stocks": [
+                        {
+                            "allocated_stock": null,
+                            "stock_breakdown_by_location": null,
+                            "promotion_type": 301
+                        },
+                        {
+                            "allocated_stock": 0,
+                            "stock_breakdown_by_location": [
+                                {
+                                    "location_id": "VNZ",
+                                    "available_stock": 5,
+                                    "fulfilment_type": 2,
+                                    "address_id": 0,
+                                    "allocated_stock": null
+                                }
+                            ],
+                            "promotion_type": 0
+                        }
+                    ],
+                    "current_promotion_has_reserve_stock": false,
+                    "normal_stock": 5,
+                    "extinfo": {
+                        "tier_index": [
+                            0
+                        ],
+                        "is_pre_order": false,
+                        "estimated_days": 2
+                    },
+                    "price_before_discount": 9800000000,
+                    "model_id": 180169375862,
+                    "stock": 5,
+                    "has_gimmick_tag": false,
+                    "key_measurement": null,
+                    "sold": 407
+                },
+                {
+                    "item_id": 19603006193,
+                    "status": 1,
+                    "current_promotion_reserved_stock": 0,
+                    "name": "Tập 2",
+                    "promotion_id": 730985201286048,
+                    "price": 7840000000,
+                    "price_stocks": [
+                        {
+                            "allocated_stock": null,
+                            "stock_breakdown_by_location": null,
+                            "promotion_type": 301
+                        },
+                        {
+                            "allocated_stock": 0,
+                            "stock_breakdown_by_location": [
+                                {
+                                    "location_id": "VNZ",
+                                    "available_stock": 3,
+                                    "fulfilment_type": 2,
+                                    "address_id": 0,
+                                    "allocated_stock": null
+                                }
+                            ],
+                            "promotion_type": 0
+                        }
+                    ],
+                    "current_promotion_has_reserve_stock": false,
+                    "normal_stock": 3,
+                    "extinfo": {
+                        "tier_index": [
+                            1
+                        ],
+                        "is_pre_order": false,
+                        "estimated_days": 2
+                    },
+                    "price_before_discount": 9800000000,
+                    "model_id": 180169375863,
+                    "stock": 3,
+                    "has_gimmick_tag": false,
+                    "key_measurement": null,
+                    "sold": 378
+                },
+                {
+                    "item_id": 19603006193,
+                    "status": 1,
+                    "current_promotion_reserved_stock": 0,
+                    "name": "Tập 4",
+                    "promotion_id": 730985201286048,
+                    "price": 8036000000,
+                    "price_stocks": [
+                        {
+                            "allocated_stock": null,
+                            "stock_breakdown_by_location": null,
+                            "promotion_type": 301
+                        },
+                        {
+                            "allocated_stock": 0,
+                            "stock_breakdown_by_location": [
+                                {
+                                    "location_id": "VNZ",
+                                    "available_stock": 4,
+                                    "fulfilment_type": 2,
+                                    "address_id": 0,
+                                    "allocated_stock": null
+                                }
+                            ],
+                            "promotion_type": 0
+                        }
+                    ],
+                    "current_promotion_has_reserve_stock": false,
+                    "normal_stock": 4,
+                    "extinfo": {
+                        "tier_index": [
+                            3
+                        ],
+                        "is_pre_order": false,
+                        "estimated_days": 2
+                    },
+                    "price_before_discount": 9800000000,
+                    "model_id": 180471952973,
+                    "stock": 4,
+                    "has_gimmick_tag": false,
+                    "key_measurement": null,
+                    "sold": 81
+                },
+                {
+                    "item_id": 19603006193,
+                    "status": 1,
+                    "current_promotion_reserved_stock": 0,
+                    "name": "Tập 3",
+                    "promotion_id": 730985201286048,
+                    "price": 7840000000,
+                    "price_stocks": [
+                        {
+                            "allocated_stock": null,
+                            "stock_breakdown_by_location": null,
+                            "promotion_type": 301
+                        },
+                        {
+                            "allocated_stock": 0,
+                            "stock_breakdown_by_location": [
+                                {
+                                    "location_id": "VNZ",
+                                    "available_stock": 3,
+                                    "fulfilment_type": 2,
+                                    "address_id": 0,
+                                    "allocated_stock": null
+                                }
+                            ],
+                            "promotion_type": 0
+                        }
+                    ],
+                    "current_promotion_has_reserve_stock": false,
+                    "normal_stock": 3,
+                    "extinfo": {
+                        "tier_index": [
+                            2
+                        ],
+                        "is_pre_order": false,
+                        "estimated_days": 2
+                    },
+                    "price_before_discount": 9800000000,
+                    "model_id": 190821545275,
+                    "stock": 3,
+                    "has_gimmick_tag": false,
+                    "key_measurement": null,
+                    "sold": 305
+                },
+                {
+                    "item_id": 19603006193,
+                    "status": 1,
+                    "current_promotion_reserved_stock": 0,
+                    "name": "Tập 7",
+                    "promotion_id": 0,
+                    "price": 10800000000,
+                    "price_stocks": [
+                        {
+                            "allocated_stock": 0,
+                            "stock_breakdown_by_location": [
+                                {
+                                    "location_id": "VNZ",
+                                    "available_stock": 0,
+                                    "fulfilment_type": 2,
+                                    "address_id": 0,
+                                    "allocated_stock": null
+                                }
+                            ],
+                            "promotion_type": 0
+                        }
+                    ],
+                    "current_promotion_has_reserve_stock": false,
+                    "normal_stock": 0,
+                    "extinfo": {
+                        "tier_index": [
+                            6
+                        ],
+                        "is_pre_order": false,
+                        "estimated_days": 2
+                    },
+                    "price_before_discount": 0,
+                    "model_id": 230033324118,
+                    "stock": 0,
+                    "has_gimmick_tag": false,
+                    "key_measurement": null,
+                    "sold": 152
+                }
+            ],
+            "tier_variations": [
+                {
+                    "name": "Số tập",
+                    "options": [
+                        "Tập 1",
+                        "Tập 2",
+                        "Tập 3",
+                        "Tập 4",
+                        "Tập 5",
+                        "Tập 6",
+                        "Tập 7"
+                    ],
+                    "images": [
+                        "649f5a52c7736526e20c3526e9eb3f79",
+                        "2ff83f5ee783ec7865abd108f90ca5a7",
+                        "4a0735bd0066961cc024c9e0d195d246",
+                        "16d2c0f979becc5be9b50b43ab9de26f",
+                        "c00c82834bd4aa107a50eef7cdb79c4b",
+                        "7524bf2986b1a4aa700d6ba8df4f7059",
+                        "sg-11134201-22100-dmzl4jxrsriva5"
+                    ],
+                    "properties": null,
+                    "type": 0,
+                    "summed_stocks": null
+                }
+            ],
+            "size_chart": null,
+            "size_chart_info": null,
+            "welcome_package_type": 0,
+            "is_free_gift": false,
+            "deep_discount": null,
+            "is_low_price_eligible": false,
+            "bundle_deal_info": null,
+            "add_on_deal_info": null,
+            "shipping_icon_type": 0,
+            "badge_icon_type": 0,
+            "spl_info": {
+                "installment_info": {
+                    "installment_plans": [],
+                    "max_installment_plan": null,
+                    "panel_status": 0,
+                    "recommended_installment_plan": null,
+                    "interest_rate_discounted_type": 0
+                },
+                "user_credit_info": {
+                    "user_status": 1,
+                    "display_text": "Mua trước trả sau",
+                    "display_color": "#ee4d2d",
+                    "partners_link": "https://uc-h5.scredit.vn/landing/spl",
+                    "tracking_info": "{\"activation_status\":\"activate_now\"}"
+                },
+                "channel_id": 5002601,
+                "show_spl": true,
+                "show_spl_lite": null
+            },
+            "estimated_days": 2,
+            "is_pre_order": false,
+            "is_free_shipping": false,
+            "overall_purchase_limit": null,
+            "min_purchase_limit": 0,
+            "is_hide_stock": false,
+            "stock": 40,
+            "normal_stock": 40,
+            "current_promotion_reserved_stock": 0,
+            "can_use_wholesale": false,
+            "wholesale_tier_list": [],
+            "price": 7840000000,
+            "raw_discount": 20,
+            "hidden_price_display": null,
+            "price_min": 7840000000,
+            "price_max": 8330000000,
+            "price_before_discount": 9800000000,
+            "price_min_before_discount": 9800000000,
+            "price_max_before_discount": 9800000000,
+            "other_stock": 0,
+            "discount_stock": 40,
+            "current_promotion_has_reserve_stock": false,
+            "complaint_policy": null,
+            "show_recycling_info": false
+        },
+        "account": {
+            "user_id": 517235873,
+            "is_new_user": false,
+            "default_address": {
+                "state": "TP. Hồ Chí Minh",
+                "city": "Thành Phố Thủ Đức",
+                "district": "Phường Linh Xuân",
+                "town": "",
+                "zip_code": null,
+                "address": null,
+                "region": null
+            },
+            "adult_consent": 0,
+            "birth_timestamp": 0
+        },
+        "product_images": {
+            "video": null,
+            "images": [
+                "649f5a52c7736526e20c3526e9eb3f79"
+            ],
+            "first_tier_variations": [
+                {
+                    "name": "Tập 1",
+                    "image": "649f5a52c7736526e20c3526e9eb3f79",
+                    "summed_stock": 0
+                },
+                {
+                    "name": "Tập 2",
+                    "image": "2ff83f5ee783ec7865abd108f90ca5a7",
+                    "summed_stock": 0
+                },
+                {
+                    "name": "Tập 3",
+                    "image": "4a0735bd0066961cc024c9e0d195d246",
+                    "summed_stock": 0
+                },
+                {
+                    "name": "Tập 4",
+                    "image": "16d2c0f979becc5be9b50b43ab9de26f",
+                    "summed_stock": 0
+                },
+                {
+                    "name": "Tập 5",
+                    "image": "c00c82834bd4aa107a50eef7cdb79c4b",
+                    "summed_stock": 0
+                },
+                {
+                    "name": "Tập 6",
+                    "image": "7524bf2986b1a4aa700d6ba8df4f7059",
+                    "summed_stock": 0
+                },
+                {
+                    "name": "Tập 7",
+                    "image": "sg-11134201-22100-dmzl4jxrsriva5",
+                    "summed_stock": 0
+                }
+            ],
+            "sorted_variation_image_index_list": [],
+            "overlay": {
+                "type": 0,
+                "image": "vn-50009109-b49faffd14e7ea4f1302b83a4a381d03",
+                "preview_end_time": null,
+                "is_pre_order": null
+            },
+            "makeup_preview": null,
+            "abnormal_status": "",
+            "promotion_images": [],
+            "long_images": null,
+            "shopee_video_info_list": [],
+            "shopee_video_rcmd_info": null,
+            "shopee_video_req_id": null,
+            "skincam": null
+        },
+        "product_price": {
+            "discount": 20,
+            "spl_installment_info": null,
+            "pack_size": "",
+            "hide_price": false,
+            "price": {
+                "single_value": -1,
+                "range_min": 7840000000,
+                "range_max": 8330000000,
+                "price_mask": null
+            },
+            "price_before_discount": {
+                "single_value": 9800000000,
+                "range_min": -1,
+                "range_max": -1,
+                "price_mask": null
+            },
+            "presale_price": null,
+            "lowest_past_price": null,
+            "labels": null
+        },
+        "flash_sale": null,
+        "flash_sale_preview": null,
+        "deep_discount": null,
+        "exclusive_price": null,
+        "exclusive_price_cta": null,
+        "product_meta": {
+            "show_lowest_price_guarantee": false,
+            "show_original_guarantee": false,
+            "show_best_price_guarantee": false,
+            "show_official_shop_label_in_title": true,
+            "show_shopee_verified_label": false
+        },
+        "product_review": {
+            "rating_star": 4.944055944055944,
+            "rating_count": [
+                429,
+                1,
+                3,
+                2,
+                7,
+                416
+            ],
+            "total_rating_count": 429,
+            "historical_sold": 1652,
+            "global_sold": 1652,
+            "liked": false,
+            "liked_count": 289,
+            "cmt_count": 429,
+            "should_move_ratings_above": null,
+            "review_rcmd_exp_group": null
+        },
+        "promotion_info": {
+            "spl": null,
+            "spl_lite": null,
+            "installment": null,
+            "wholesale": null,
+            "insurance": null,
+            "item_installment_eligibility": {
+                "is_cc_installment_payment_eligible": false,
+                "is_non_cc_installment_payment_eligible": false
+            }
+        },
+        "age_gate": {
+            "kyc": null
+        },
+        "shipping_meta": null,
+        "product_shipping": {
+            "free_shipping": null,
+            "shipping_fee_info": {
+                "ship_from_location": "Hà Nội",
+                "price": {
+                    "single_value": 3270000000,
+                    "range_min": -1,
+                    "range_max": -1,
+                    "price_mask": null
+                },
+                "shipping_icon_type": 0,
+                "warning": null
+            },
+            "show_shipping_to": true,
+            "ungrouped_channel_infos": [
+                {
+                    "channel_id": 5001,
+                    "name": "Nhanh",
+                    "price": {
+                        "single_value": 3270000000,
+                        "range_min": -1,
+                        "range_max": -1,
+                        "price_mask": null
+                    },
+                    "price_before_discount": null,
+                    "channel_delivery_info": {
+                        "has_edt": true,
+                        "display_mode": "edt_by_date",
+                        "estimated_delivery_date_from": 1693033941,
+                        "estimated_delivery_date_to": 1693206741,
+                        "estimated_delivery_time_min": 4,
+                        "estimated_delivery_time_max": 6,
+                        "delay_message": null
+                    },
+                    "channel_promotion_infos": [
+                        {
+                            "rule_id": 83937,
+                            "type": 0,
+                            "display_mode": 1,
+                            "discount_off": 2500000000,
+                            "min_spend": {
+                                "single_value": 9900000000,
+                                "range_min": -1,
+                                "range_max": -1,
+                                "price_mask": null
+                            },
+                            "cap": 2500000000
+                        }
+                    ],
+                    "warning": null,
+                    "shipping_icon_type": null,
+                    "lowest_bpsf_promotion_rule": null
+                }
+            ],
+            "grouped_channel_infos_by_service_type": [],
+            "also_available_channel_name": null,
+            "pre_selected_shipping_channel": null,
+            "show_grouped_channel_first": null,
+            "is_item_with_price_range": true
+        },
+        "shop_vouchers": [],
+        "free_return": null,
+        "coin_info": {
+            "spend_cash_unit": 100000,
+            "coin_earn_items": [
+                {
+                    "coin_earn": 0
+                },
+                {
+                    "coin_earn": 0
+                },
+                {
+                    "coin_earn": 0
+                },
+                {
+                    "coin_earn": 0
+                },
+                {
+                    "coin_earn": 0
+                },
+                {
+                    "coin_earn": 0
+                },
+                {
+                    "coin_earn": 0
+                }
+            ],
+            "coin_earn_label": null
+        },
+        "product_attributes": {
+            "attrs": [
+                {
+                    "name": "product_page_label_brand",
+                    "value": "Jougi Shiraishi",
+                    "id": null,
+                    "is_timestamp": null,
+                    "brand_option": null,
+                    "val_id": null,
+                    "url": "/search?brands=1068946"
+                },
+                {
+                    "name": "Ngôn ngữ",
+                    "value": "Tiếng Việt",
+                    "id": 100673,
+                    "is_timestamp": false,
+                    "brand_option": null,
+                    "val_id": 5471,
+                    "url": null
+                },
+                {
+                    "name": "Nhập khẩu/ trong nước",
+                    "value": "Trong nước",
+                    "id": 100676,
+                    "is_timestamp": false,
+                    "brand_option": null,
+                    "val_id": 3518,
+                    "url": null
+                },
+                {
+                    "name": "label_stock",
+                    "value": "40",
+                    "id": null,
+                    "is_timestamp": null,
+                    "brand_option": null,
+                    "val_id": null,
+                    "url": null
+                },
+                {
+                    "name": "label_ship_from",
+                    "value": "Hà Nội",
+                    "id": null,
+                    "is_timestamp": null,
+                    "brand_option": null,
+                    "val_id": null,
+                    "url": null
+                }
+            ],
+            "categories": [
+                {
+                    "catid": 11036863,
+                    "display_name": "Nhà Sách Online",
+                    "no_sub": false,
+                    "is_default_subcat": false
+                },
+                {
+                    "catid": 11108503,
+                    "display_name": "Sách Tiếng Việt",
+                    "no_sub": false,
+                    "is_default_subcat": false
+                },
+                {
+                    "catid": 11108519,
+                    "display_name": "Tiểu thuyết ngắn",
+                    "no_sub": true,
+                    "is_default_subcat": false
+                }
+            ]
+        },
+        "shop_detailed": {
+            "shopid": 90740928,
+            "userid": 90742406,
+            "last_active_time": 1692687592,
+            "vacation": false,
+            "place": "Quận Thanh Xuân, Hà Nội",
+            "account": {
+                "portrait": "bcf5e13783d08a2400805e27eeaddb73",
+                "username": "nhasachphuongthu",
+                "status": 1
+            },
+            "is_shopee_verified": false,
+            "is_preferred_plus_seller": false,
+            "is_official_shop": true,
+            "shop_location": "Hà Nội",
+            "item_count": 5033,
+            "rating_star": 4.960672,
+            "response_rate": 77,
+            "session_info": null,
+            "name": "Nhà Sách Phương Thu",
+            "ctime": 1537001402,
+            "response_time": 29526,
+            "follower_count": 70098,
+            "show_official_shop_label": true,
+            "rating_bad": 216,
+            "rating_good": 161781,
+            "rating_normal": 1029,
+            "session_infos": null,
+            "status": 1,
+            "is_individual_seller": null,
+            "is_mart": false,
+            "favorite_shop_info": null,
+            "is_3pf": false,
+            "sold_total": 367122
+        },
+        "age_gate_control": null
+    }
+}
